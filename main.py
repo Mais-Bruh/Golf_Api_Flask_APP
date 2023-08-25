@@ -11,7 +11,7 @@ def index():
         "statId": "186"
     }
     headers = {
-        "X-RapidAPI-Key": "YourApiKey",  # Replace with your API key
+        "X-RapidAPI-Key": "YourApiKey ",  # Replace with your API key
         "X-RapidAPI-Host": "live-golf-data.p.rapidapi.com"
     }
 
